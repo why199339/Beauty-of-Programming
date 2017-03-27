@@ -1,6 +1,6 @@
 package part2;
 
-public class NumberOf1 {
+public class Number_Of_1 {
 
 	public static void main(String[] args) {
 		System.out.println(count_1(5));
